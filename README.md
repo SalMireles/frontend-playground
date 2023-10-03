@@ -8,7 +8,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <summary>Videos</summary>
 
 <input type="checkbox" checked /> 1 - Intro & Setup
-<input type="checkbox" /> 2 - Syntax Basics & Types
+<input type="checkbox" checked /> 2 - Syntax Basics & Types
 <input type="checkbox" /> 3 - Control Flow
 <input type="checkbox" /> 4 - Functions
 <input type="checkbox" /> 5 - Objects
