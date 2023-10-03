@@ -11,7 +11,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <input type="checkbox" checked /> 2 - Syntax Basics & Types
 <input type="checkbox" checked /> 3 - Control Flow
 <input type="checkbox" checked/> 4 - Functions
-<input type="checkbox" /> 5 - Objects
+<input type="checkbox" checked/> 5 - Objects
 <input type="checkbox" /> 6 - The Document Object Model
 
 </details>
