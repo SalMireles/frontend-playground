@@ -1,0 +1,49 @@
+
+# Ignore Node.js related files and directories
+**/node_modules/**
+node_modules/
+package-lock.json
+.npm
+
+# Ignore Python-specific files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Ignore Java-specific files and directories
+target/
+.classpath
+.project
+.settings/
+
+# Ignore IDE/Editor-specific files and directories
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore compiled files
+*.class
+*.jar
+*.war
+
+# Ignore log and temporary files
+*.log
+.log/
+*.tmp
+
+# Ignore dependency management files
+Gemfile.lock
+yarn.lock
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore sensitive information files
+.env.secret
+.secrets/

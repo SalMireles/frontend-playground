@@ -23,8 +23,8 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <details>
 <summary>Videos</summary>
 
-<input type="checkbox" /> 1 - Intro & Setup
-<input type="checkbox" /> 2 - Compiling TypeScript
+<input type="checkbox" checked /> 1 - Intro & Setup
+<input type="checkbox" checked /> 2 - Compiling TypeScript
 <input type="checkbox" /> 3 - Type Basics
 <input type="checkbox" /> 4 - Objects & Arrays
 <input type="checkbox" /> 5 - Explicit Types
