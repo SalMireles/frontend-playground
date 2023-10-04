@@ -2,12 +2,12 @@
 
 Playground for to learning javascript, html, css, React, and other frontend technology.
 
-## JavaScript
+## JavaScript <span style="color:green;">✔</span>
 
 [Modern JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (6/6 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Intro & Setup
 <input type="checkbox" checked /> 2 - Syntax Basics & Types
@@ -23,7 +23,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [Object Oriented JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/11 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction
 <input type="checkbox" /> 2 - Object Literals
@@ -44,7 +44,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (11/21 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Intro & Setup
 <input type="checkbox" checked /> 2 - Compiling TypeScript
@@ -75,7 +75,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [HTML & CSS Crash Course Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/11 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction
 <input type="checkbox" /> 2 - HTML Basics
@@ -96,7 +96,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [Modern React Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/32 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction
 <input type="checkbox" /> 2 - Creating a React Application
@@ -138,7 +138,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [Next.js Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/12 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction & New Features
 <input type="checkbox" /> 2 - SSR & Server Components (theory)
