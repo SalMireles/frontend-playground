@@ -18,6 +18,27 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
+## Object Oriented JavaScript
+
+[Object Oriented JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
+
+<details>
+<summary>Videos</summary>
+
+<input type="checkbox" /> 1 - Introduction
+<input type="checkbox" /> 2 - Object Literals
+<input type="checkbox" /> 3 - Updating Properties
+<input type="checkbox" /> 4 - Classes
+<input type="checkbox" /> 5 - Class Constructors
+<input type="checkbox" /> 6 - Class Methods
+<input type="checkbox" /> 7 - Method Chaining
+<input type="checkbox" /> 8 - Class Inheritance
+<input type="checkbox" /> 9 - Constructors (under the hood)
+<input type="checkbox" /> 10 - Prototype
+<input type="checkbox" /> 11 - Prototype Inheritance
+
+</details>
+
 ## TypeScript
 
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
@@ -34,8 +55,8 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <input type="checkbox" checked /> 7 - Better Workflow & tsconfig
 <input type="checkbox" checked /> 8 - Function Basics
 <input type="checkbox" checked /> 9 - Type Aliases
-<input type="checkbox" checked/> 10 - Function Signatures
-<input type="checkbox" /> 11 - The DOM & Type Casting
+<input type="checkbox" checked /> 10 - Function Signatures
+<input type="checkbox" checked /> 11 - The DOM & Type Casting
 <input type="checkbox" /> 12 - Classes
 <input type="checkbox" /> 13 - Public, Private & Readonly
 <input type="checkbox" /> 14 - Modules
