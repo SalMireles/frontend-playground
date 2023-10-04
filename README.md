@@ -25,17 +25,17 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <details>
 <summary>Videos (0/11 videos completed)</summary>
 
-<input type="checkbox" /> 1 - Introduction
-<input type="checkbox" /> 2 - Object Literals
-<input type="checkbox" /> 3 - Updating Properties
-<input type="checkbox" /> 4 - Classes
-<input type="checkbox" /> 5 - Class Constructors
-<input type="checkbox" /> 6 - Class Methods
-<input type="checkbox" /> 7 - Method Chaining
-<input type="checkbox" /> 8 - Class Inheritance
-<input type="checkbox" /> 9 - Constructors (under the hood)
-<input type="checkbox" /> 10 - Prototype
-<input type="checkbox" /> 11 - Prototype Inheritance
+<input type="checkbox" checked /> 1 - Introduction
+<input type="checkbox" checked /> 2 - Object Literals
+<input type="checkbox" checked /> 3 - Updating Properties
+<input type="checkbox" checked /> 4 - Classes
+<input type="checkbox" checked /> 5 - Class Constructors
+<input type="checkbox" checked /> 6 - Class Methods
+<input type="checkbox" checked /> 7 - Method Chaining
+<input type="checkbox" checked /> 8 - Class Inheritance
+<input type="checkbox" checked /> 9 - Constructors (under the hood)
+<input type="checkbox" checked /> 10 - Prototype
+<input type="checkbox" checked /> 11 - Prototype Inheritance
 
 </details>
 
