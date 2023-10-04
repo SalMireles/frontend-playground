@@ -34,7 +34,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <input type="checkbox" checked /> 7 - Better Workflow & tsconfig
 <input type="checkbox" checked /> 8 - Function Basics
 <input type="checkbox" checked /> 9 - Type Aliases
-<input type="checkbox" /> 10 - Function Signatures
+<input type="checkbox" checked/> 10 - Function Signatures
 <input type="checkbox" /> 11 - The DOM & Type Casting
 <input type="checkbox" /> 12 - Classes
 <input type="checkbox" /> 13 - Public, Private & Readonly
