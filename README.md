@@ -1,7 +1,9 @@
 # frontend-playground
+
 Playground for to learning javascript, html, css, React, and other frontend technology.
 
-## JavaScript 
+## JavaScript
+
 [Modern JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
 <details>
@@ -16,8 +18,8 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
-
 ## TypeScript
+
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
 <details>
@@ -25,13 +27,13 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 <input type="checkbox" checked /> 1 - Intro & Setup
 <input type="checkbox" checked /> 2 - Compiling TypeScript
-<input type="checkbox" /> 3 - Type Basics
-<input type="checkbox" /> 4 - Objects & Arrays
-<input type="checkbox" /> 5 - Explicit Types
-<input type="checkbox" /> 6 - Dynamic (any) Types
-<input type="checkbox" /> 7 - Better Workflow & tsconfig
-<input type="checkbox" /> 8 - Function Basics
-<input type="checkbox" /> 9 - Type Aliases
+<input type="checkbox" checked /> 3 - Type Basics
+<input type="checkbox" checked /> 4 - Objects & Arrays
+<input type="checkbox" checked /> 5 - Explicit Types
+<input type="checkbox" checked /> 6 - Dynamic (any) Types
+<input type="checkbox" checked /> 7 - Better Workflow & tsconfig
+<input type="checkbox" checked /> 8 - Function Basics
+<input type="checkbox" checked /> 9 - Type Aliases
 <input type="checkbox" /> 10 - Function Signatures
 <input type="checkbox" /> 11 - The DOM & Type Casting
 <input type="checkbox" /> 12 - Classes
@@ -47,7 +49,8 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
-## HTML & CSS 
+## HTML & CSS
+
 [HTML & CSS Crash Course Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 <details>
@@ -67,8 +70,8 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
+## React
 
-## React 
 [Modern React Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 <details>
@@ -110,6 +113,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 </details>
 
 ## Next.js
+
 [Next.js Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
 
 <details>
