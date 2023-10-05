@@ -1,11 +1,13 @@
 # frontend-playground
+
 Playground for to learning javascript, html, css, React, and other frontend technology.
 
-## JavaScript 
+## JavaScript <span style="color:green;">✔</span>
+
 [Modern JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (6/6 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Intro & Setup
 <input type="checkbox" checked /> 2 - Syntax Basics & Types
@@ -16,42 +18,64 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
+## Object Oriented JavaScript
 
-## TypeScript
-[TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+[Object Oriented JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (11/11 videos completed)</summary>
 
-<input type="checkbox" /> 1 - Intro & Setup
-<input type="checkbox" /> 2 - Compiling TypeScript
-<input type="checkbox" /> 3 - Type Basics
-<input type="checkbox" /> 4 - Objects & Arrays
-<input type="checkbox" /> 5 - Explicit Types
-<input type="checkbox" /> 6 - Dynamic (any) Types
-<input type="checkbox" /> 7 - Better Workflow & tsconfig
-<input type="checkbox" /> 8 - Function Basics
-<input type="checkbox" /> 9 - Type Aliases
-<input type="checkbox" /> 10 - Function Signatures
-<input type="checkbox" /> 11 - The DOM & Type Casting
-<input type="checkbox" /> 12 - Classes
-<input type="checkbox" /> 13 - Public, Private & Readonly
-<input type="checkbox" /> 14 - Modules
-<input type="checkbox" /> 15 - Interfaces
-<input type="checkbox" /> 16 - Interfaces with Classes
-<input type="checkbox" /> 17 - Rendering an HTML Template
-<input type="checkbox" /> 18 - Generics
-<input type="checkbox" /> 19 - Enums
-<input type="checkbox" /> 20 - Tuples
-<input type="checkbox" /> 21 - Wrap Up
+<input type="checkbox" checked /> 1 - Introduction
+<input type="checkbox" checked /> 2 - Object Literals
+<input type="checkbox" checked /> 3 - Updating Properties
+<input type="checkbox" checked /> 4 - Classes
+<input type="checkbox" checked /> 5 - Class Constructors
+<input type="checkbox" checked /> 6 - Class Methods
+<input type="checkbox" checked /> 7 - Method Chaining
+<input type="checkbox" checked /> 8 - Class Inheritance
+<input type="checkbox" checked /> 9 - Constructors (under the hood)
+<input type="checkbox" checked /> 10 - Prototype
+<input type="checkbox" checked /> 11 - Prototype Inheritance
 
 </details>
 
-## HTML & CSS 
+## TypeScript
+
+[TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+
+<details>
+<summary>Videos (21/21 videos completed)</summary>
+
+<input type="checkbox" checked /> 1 - Intro & Setup
+<input type="checkbox" checked /> 2 - Compiling TypeScript
+<input type="checkbox" checked /> 3 - Type Basics
+<input type="checkbox" checked /> 4 - Objects & Arrays
+<input type="checkbox" checked /> 5 - Explicit Types
+<input type="checkbox" checked /> 6 - Dynamic (any) Types
+<input type="checkbox" checked /> 7 - Better Workflow & tsconfig
+<input type="checkbox" checked /> 8 - Function Basics
+<input type="checkbox" checked /> 9 - Type Aliases
+<input type="checkbox" checked /> 10 - Function Signatures
+<input type="checkbox" checked /> 11 - The DOM & Type Casting
+<input type="checkbox" checked /> 12 - Classes
+<input type="checkbox" checked /> 13 - Public, Private & Readonly
+<input type="checkbox" checked /> 14 - Modules
+<input type="checkbox" checked /> 15 - Interfaces
+<input type="checkbox" checked /> 16 - Interfaces with Classes
+<input type="checkbox" checked /> 17 - Rendering an HTML Template
+<input type="checkbox" checked /> 18 - Generics
+<input type="checkbox" checked /> 19 - Enums
+<input type="checkbox" checked /> 20 - Tuples
+<input type="checkbox" checked /> 21 - Wrap Up
+
+</details>
+
+## HTML & CSS
+
 [HTML & CSS Crash Course Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/11 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction
 <input type="checkbox" /> 2 - HTML Basics
@@ -67,12 +91,12 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
+## React
 
-## React 
 [Modern React Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/32 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction
 <input type="checkbox" /> 2 - Creating a React Application
@@ -110,10 +134,11 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 </details>
 
 ## Next.js
+
 [Next.js Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT)
 
 <details>
-<summary>Videos</summary>
+<summary>Videos (0/12 videos completed)</summary>
 
 <input type="checkbox" /> 1 - Introduction & New Features
 <input type="checkbox" /> 2 - SSR & Server Components (theory)
