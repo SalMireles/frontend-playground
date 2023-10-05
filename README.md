@@ -62,7 +62,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <input type="checkbox" checked /> 14 - Modules
 <input type="checkbox" checked /> 15 - Interfaces
 <input type="checkbox" checked /> 16 - Interfaces with Classes
-<input type="checkbox" /> 17 - Rendering an HTML Template
+<input type="checkbox" checked /> 17 - Rendering an HTML Template
 <input type="checkbox" /> 18 - Generics
 <input type="checkbox" /> 19 - Enums
 <input type="checkbox" /> 20 - Tuples
