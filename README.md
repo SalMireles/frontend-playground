@@ -23,7 +23,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [Object Oriented JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
 
 <details>
-<summary>Videos (0/11 videos completed)</summary>
+<summary>Videos (11/11 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Introduction
 <input type="checkbox" checked /> 2 - Object Literals
@@ -57,11 +57,11 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 <input type="checkbox" checked /> 9 - Type Aliases
 <input type="checkbox" checked /> 10 - Function Signatures
 <input type="checkbox" checked /> 11 - The DOM & Type Casting
-<input type="checkbox" /> 12 - Classes
-<input type="checkbox" /> 13 - Public, Private & Readonly
-<input type="checkbox" /> 14 - Modules
-<input type="checkbox" /> 15 - Interfaces
-<input type="checkbox" /> 16 - Interfaces with Classes
+<input type="checkbox" checked /> 12 - Classes
+<input type="checkbox" checked /> 13 - Public, Private & Readonly
+<input type="checkbox" checked /> 14 - Modules
+<input type="checkbox" checked /> 15 - Interfaces
+<input type="checkbox" checked /> 16 - Interfaces with Classes
 <input type="checkbox" /> 17 - Rendering an HTML Template
 <input type="checkbox" /> 18 - Generics
 <input type="checkbox" /> 19 - Enums
