@@ -44,7 +44,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
 <details>
-<summary>Videos (11/21 videos completed)</summary>
+<summary>Videos (21/21 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Intro & Setup
 <input type="checkbox" checked /> 2 - Compiling TypeScript
