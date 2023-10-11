@@ -75,15 +75,15 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [HTML & CSS Crash Course Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 <details>
-<summary>Videos (4/11 videos completed)</summary>
+<summary>Videos (7/11 videos completed)</summary>
 
 <input type="checkbox" checked /> 1 - Introduction
 <input type="checkbox" checked /> 2 - HTML Basics
 <input type="checkbox" checked /> 3 - HTML Forms
 <input type="checkbox" checked /> 4 - CSS Basics
-<input type="checkbox" /> 5 - CSS Classes & Selectors
-<input type="checkbox" /> 6 - HTML 5 Semantics
-<input type="checkbox" /> 7 - Chrome Dev Tools
+<input type="checkbox" checked /> 5 - CSS Classes & Selectors
+<input type="checkbox" checked /> 6 - HTML 5 Semantics
+<input type="checkbox" checked /> 7 - Chrome Dev Tools
 <input type="checkbox" /> 8 - CSS Layout & Position
 <input type="checkbox" /> 9 - Pseudo Classes & Elements
 <input type="checkbox" /> 10 - Intro to Media Queries
