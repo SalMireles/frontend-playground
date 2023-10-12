@@ -18,7 +18,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
-## Object Oriented JavaScript
+## Object Oriented JavaScript <span style="color:green;">✔</span>
 
 [Object Oriented JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7)
 
@@ -39,7 +39,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
-## TypeScript
+## TypeScript <span style="color:green;">✔</span>
 
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
@@ -75,19 +75,19 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [HTML & CSS Crash Course Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 
 <details>
-<summary>Videos (0/11 videos completed)</summary>
+<summary>Videos (11/11 videos completed)</summary>
 
-<input type="checkbox" /> 1 - Introduction
-<input type="checkbox" /> 2 - HTML Basics
-<input type="checkbox" /> 3 - HTML Forms
-<input type="checkbox" /> 4 - CSS Basics
-<input type="checkbox" /> 5 - CSS Classes & Selectors
-<input type="checkbox" /> 6 - HTML 5 Semantics
-<input type="checkbox" /> 7 - Chrome Dev Tools
-<input type="checkbox" /> 8 - CSS Layout & Position
-<input type="checkbox" /> 9 - Pseudo Classes & Elements
-<input type="checkbox" /> 10 - Intro to Media Queries
-<input type="checkbox" /> 11 - Next Steps
+<input type="checkbox" checked /> 1 - Introduction
+<input type="checkbox" checked /> 2 - HTML Basics
+<input type="checkbox" checked /> 3 - HTML Forms
+<input type="checkbox" checked /> 4 - CSS Basics
+<input type="checkbox" checked /> 5 - CSS Classes & Selectors
+<input type="checkbox" checked /> 6 - HTML 5 Semantics
+<input type="checkbox" checked /> 7 - Chrome Dev Tools
+<input type="checkbox" checked /> 8 - CSS Layout & Position
+<input type="checkbox" checked /> 9 - Pseudo Classes & Elements
+<input type="checkbox" checked /> 10 - Intro to Media Queries
+<input type="checkbox" checked /> 11 - Next Steps
 
 </details>
 
