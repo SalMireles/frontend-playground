@@ -2,7 +2,7 @@
 
 Playground for to learning javascript, html, css, React, and other frontend technology.
 
-## JavaScript <span style="color:green;">✔</span>
+## JavaScript
 
 [Modern JavaScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc)
 
@@ -39,7 +39,7 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 
 </details>
 
-## TypeScript <span style="color:green;">✔</span>
+## TypeScript
 
 [TypeScript Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
@@ -96,40 +96,40 @@ Playground for to learning javascript, html, css, React, and other frontend tech
 [Modern React Tutorial - YouTube Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
 <details>
-<summary>Videos (0/32 videos completed)</summary>
+<summary>Videos (32/32 videos completed)</summary>
 
-<input type="checkbox" /> 1 - Introduction
-<input type="checkbox" /> 2 - Creating a React Application
-<input type="checkbox" /> 3 - Components & Templates
-<input type="checkbox" /> 4 - Dynamic Values in Templates
-<input type="checkbox" /> 5 - Multiple Components
-<input type="checkbox" /> 6 - Adding Styles
-<input type="checkbox" /> 7 - Click Events
-<input type="checkbox" /> 8 - Using State (useState hook)
-<input type="checkbox" /> 9 - Intro to React Dev Tools
-<input type="checkbox" /> 10 - Outputting Lists
-<input type="checkbox" /> 11 - Props
-<input type="checkbox" /> 12 - Reusing Components
-<input type="checkbox" /> 13 - Functions as Props
-<input type="checkbox" /> 14 - useEffect Hook (the basics)
-<input type="checkbox" /> 15 - useEffect Dependencies
-<input type="checkbox" /> 16 - Using JSON Server
-<input type="checkbox" /> 17 - Fetching Data with useEffect
-<input type="checkbox" /> 18 - Conditional Loading Message
-<input type="checkbox" /> 19 - Handling Fetch Errors
-<input type="checkbox" /> 20 - Making a Custom Hook
-<input type="checkbox" /> 21 - The React Router
-<input type="checkbox" /> 22 - Exact Match Routes
-<input type="checkbox" /> 23 - Router Links
-<input type="checkbox" /> 24 - useEffect Cleanup
-<input type="checkbox" /> 25 - Route Parameters
-<input type="checkbox" /> 26 - Reusing Custom Hooks
-<input type="checkbox" /> 27 - Controlled Inputs (forms)
-<input type="checkbox" /> 28 - Submit Events
-<input type="checkbox" /> 29 - Making a POST Request
-<input type="checkbox" /> 30 - Programmatic Redirects
-<input type="checkbox" /> 31 - Deleting Blogs
-<input type="checkbox" /> 32 - 404 Pages & Next Steps
+<input type="checkbox" checked /> 1 - Introduction
+<input type="checkbox" checked /> 2 - Creating a React Application
+<input type="checkbox" checked /> 3 - Components & Templates
+<input type="checkbox" checked /> 4 - Dynamic Values in Templates
+<input type="checkbox" checked /> 5 - Multiple Components
+<input type="checkbox" checked /> 6 - Adding Styles
+<input type="checkbox" checked /> 7 - Click Events
+<input type="checkbox" checked /> 8 - Using State (useState hook)
+<input type="checkbox" checked /> 9 - Intro to React Dev Tools
+<input type="checkbox" checked /> 10 - Outputting Lists
+<input type="checkbox" checked /> 11 - Props
+<input type="checkbox" checked /> 12 - Reusing Components
+<input type="checkbox" checked /> 13 - Functions as Props
+<input type="checkbox" checked /> 14 - useEffect Hook (the basics)
+<input type="checkbox" checked /> 15 - useEffect Dependencies
+<input type="checkbox" checked /> 16 - Using JSON Server
+<input type="checkbox" checked /> 17 - Fetching Data with useEffect
+<input type="checkbox" checked /> 18 - Conditional Loading Message
+<input type="checkbox" checked /> 19 - Handling Fetch Errors
+<input type="checkbox" checked /> 20 - Making a Custom Hook
+<input type="checkbox" checked /> 21 - The React Router
+<input type="checkbox" checked /> 22 - Exact Match Routes
+<input type="checkbox" checked /> 23 - Router Links
+<input type="checkbox" checked /> 24 - useEffect Cleanup
+<input type="checkbox" checked /> 25 - Route Parameters
+<input type="checkbox" checked /> 26 - Reusing Custom Hooks
+<input type="checkbox" checked /> 27 - Controlled Inputs (forms)
+<input type="checkbox" checked /> 28 - Submit Events
+<input type="checkbox" checked /> 29 - Making a POST Request
+<input type="checkbox" checked /> 30 - Programmatic Redirects
+<input type="checkbox" checked /> 31 - Deleting Blogs
+<input type="checkbox" checked /> 32 - 404 Pages & Next Steps
 
 </details>
 
