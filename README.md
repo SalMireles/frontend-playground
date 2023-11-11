@@ -1,6 +1,6 @@
 # frontend-playground
 
-Playground for to learning javascript, html, css, React, and other frontend technology.
+Playground for learning javascript, html, css, React, and other frontend technology.
 
 ## JavaScript
 
